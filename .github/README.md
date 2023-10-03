@@ -1,4 +1,4 @@
-# AstroNvim User Configuration Example
+# NvChad User Configuration Example with Pyright LSP and some features for Python
 
 A user configuration template for [NvChad](https://nvchad.com/)
 
